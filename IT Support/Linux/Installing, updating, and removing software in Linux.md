@@ -79,12 +79,13 @@ sudo apt-get install firefox-esr
 ```
 
 3. You'll be prompted to confirm that you‘d like to continue with the installation. To continue, enter y (as in "yes") into the terminal, and hit enter:
+
 Output:
 <br>
 <img alt="sudo apt-get install firefox-esr output 1" src="https://github.com/hkwr/Home-Lab/blob/f59d598f31ed9816caa5a54ec4be5721730b5597/IT%20Support/Linux/Images/sudo%20apt-get%20install%20firefox-esr%20output%201.png" align="left">
 <br clear="left" />
 <br>
-5. Once this process is complete, Firefox will be installed on your instance. To verify that it's installed, enter command below into the terminal window again, and you'll see different output than before:
+4. Once this process is complete, Firefox will be installed on your instance. To verify that it's installed, enter command below into the terminal window again, and you'll see different output than before:
 
 ```terminal
 dpkg -s firefox-esr
