@@ -57,7 +57,10 @@ cd ../Documents/Hidden && ls
 In the directory /home/user/Movies, there's a folder called "Europe Pictures". Move this folder into the correct directory for pictures: /home/user/Pictures.
 <br>
 
-
+1. Go to Movies directory
+```terminal
+cd /home/user/Movies
+```
 
 
 ### 2.2 Deleting files and directory
